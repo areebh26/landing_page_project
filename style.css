@@ -80,6 +80,9 @@ a{
     margin-bottom: 20px ;
 
 }
+.second-section{
+    padding-bottom: 80px;
+}
 .second-section > h2{
     text-align: center;
     
@@ -120,6 +123,28 @@ a{
     text-align: center;
     padding-top: 60px;
     font-size: 17px;
+}
+.Quote-section{
+    background-color: #E5E7EB;
+}
+.Quote-section > #Quote{
+    text-align: center;
+    font-weight: 300;
+    font-size: 36px;
+    color: #1F2937;
+    width: 60%;
+    margin: auto;
+    padding-top: 100px ;
+}
+.Quote-section > #author{
+    width: 60%;
+    margin: auto;
+    text-align: right;
+    padding-top: 10px;
+    color: black;
+    font-weight: 700;
+    padding-bottom: 100px;
+
 }
 
     
