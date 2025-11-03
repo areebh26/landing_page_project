@@ -80,5 +80,48 @@ a{
     margin-bottom: 20px ;
 
 }
+.second-section > h2{
+    text-align: center;
+    
+    font-weight: 900;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 48px;
+
+}
+.container-for-services{
+    display: flex;
+    justify-content: center;
+    gap: 70px;
+    margin-top: 50px;
+    
+}
+.small-container{
+    border-radius: 10px;
+    border: 6px solid #3882f6 ;
+    background-color: #E0E7FF;
+    color: #312E81;
+    /* padding: 50px 45px; */
+    width: 200px;
+    height: 160px;
+    text-align: center;
+    padding-top: 60px;
+    font-size: 32px;
+    font-weight: 900;
+}
+.another-container{
+    display: flex;
+    justify-content: center;
+    gap: 70px;
+}
+.small-container-2{
+    /* padding: 50px 45px; */
+    width: 200px;
+    height: 160px;
+    text-align: center;
+    padding-top: 60px;
+    font-size: 17px;
+}
+
+    
 
 
