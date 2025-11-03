@@ -147,6 +147,39 @@ a{
 
 }
 
+.card{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    background-color:#3882f6 ;
+    border-radius: 10px;
+    margin-top: 100px ;
+    margin-bottom: 100px;
+    padding : 70px 50px;
+}
+.item1{
+    color: white;
+
+}
+.item2 > a{
+    color: #3882f6;
+    background-color: white;
+    border-radius: 5px;
+    padding: 10px;
+    font-weight: 700;
+
+}
+.footer-section{
+    background-color: #1F2937;
+    padding: 30px;
+
+}
+.footer-section > p{
+    text-align: center;
+    color: white;
+}
+
     
 
 
